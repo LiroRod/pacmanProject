@@ -1,0 +1,26 @@
+.button {
+    border: 1px solid #292929;
+    width: 300px;
+    margin-top: 28px;
+    background-color: #151515;
+    font-family: "Lucida Console";
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #cacaca;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    background-color: #151515;
+    cursor: pointer;
+    top: 100%;
+    left: 100%;
+    width: 300px;
+    height: 21px;
+    box-shadow: #000 2px 2px 2px 2px;
+    cursor: pointer;
+}
+
+body { background-color:#141414;}
